@@ -65,6 +65,20 @@ local Avatares = {
     {80468697076178,"Trenzinho"},
     {11941741105,"Dino"},
     {15742966010,"Pou Idoso"},
+    {15645197933,"Pou Normal"},
+    {13913442669,"Esquilo Negro"},
+    {14426409309,"Gorilão"},
+    {116061646255634,"Steve do K9"},
+    {135484442995560,"Village Totoso"},
+    {106240936270355,"Parry Noiado"},
+    {82742105178956,"Bob Dono da Boca"},
+    {114583627550420,"Krakudin do Pó"},
+    {131077718703383,"Pato da Coca"},
+    {94113768850801,"Sapo da Makonha"},
+    {116926408164867,"Urso com Cólica KKJ"},
+    {113388690106030,"FDP do Mine"},
+    {133241040400728,"Bora dar um trago?"},
+    {81758359166942,"Noiado KKJ"},
     {77013984520332,"Coco/Boxt@"},
     {71797333686800,"Coelho"},
     {73215892129281,"Hipopótamo"},
@@ -81,10 +95,19 @@ local Avatares = {
     {18656467256,"Cachorro Chihuahua"},
     {18994959003,"Gato Sla"},
     {77506186615650,"Gato Fei"},
-    {18234669337,"Impostor"},
+    {18234669337,"Bruh?"},
     {75183593514657,"Simon Amarelo"},
-    {76155710249925,"Simon Azul"}
+    {76155710249925,"Simon Azul"},
+    {106583662991726,"Kaguei"},
+    {128739728423758,"Skeleto que já fumou todas"},
+    {17247216094,"Carro do Bob Marley KKJ"},
+    {116152555682007,"Dogão Grosso"},
+    {119818753007043,"Burro do Krlh"},
+    {94881693032770,"Caracolzin Puto"},
+    {18322091668,"Mim de Papai"},
+    {90344674037297,"Zumbizin Filho da Puta"}
 }
+
 
 -- Lista de corpos
 local Corpos = {
